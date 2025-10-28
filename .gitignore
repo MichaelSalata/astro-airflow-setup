@@ -208,3 +208,6 @@ __marimo__/
 
 # Dev Containers
 .devcontainer/
+
+# astro specific ignores
+airflow_settings.yaml
